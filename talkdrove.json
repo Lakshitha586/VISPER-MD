@@ -8,7 +8,7 @@
   
     "env": {
       "SESSION_ID": {
-        "description": "VISPER-SESSIONS=F4TR35.json",
+        "description": "VISPER-SESSIONS=TCNVGQ.json",
         "value":"",
         "required": true
         
